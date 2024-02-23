@@ -4,7 +4,10 @@
 
 ## About Me
 
-👋 Hello, I'm Cristian Rosca, a passionate frontend developer with three years of experience in crafting web and mobile applications. I thrive in the dynamic and ever-evolving realms of technology, where I constantly seek to learn and adapt to the latest trends.
+👋 Hello, I'm Cristian Rosca, a passionate frontend developer and I'm crafting web and mobile applications.
+  If I would have to resume myself in 2 words those would be:
+- Curious
+- Collaborative
 
 ## 🛠 Technologies & Tools
 
