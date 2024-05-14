@@ -4,10 +4,10 @@
 
 ## About Me
 
-👋 Hello, I'm Cristian Rosca, a passionate frontend developer and I'm crafting web and mobile applications.
-  If I would have to resume myself in 2 words those would be:
-- Curious
-- Collaborative
+I'm a front-end dev focused on JavaScript, but I don't mind using other languages too.
+I'm a leader who wants to take responsibility and deliver the best possible outcome, with the team's help.
+I'm a coder aiming to improve code quality, frameworks, and how we develop things.
+I'm a writer who enjoys sharing knowledge while learning from others.
 
 ## 🛠 Technologies & Tools
 
@@ -19,14 +19,11 @@
 
 Some other tools and technologies I have experience with:
 
-- Git & GitHub
-- REST APIs
-- Responsive Design 
-- Figma & Adobe XD
+- Jest
+- Playwright
+- Storybook
 
 ## 📫 Get in Touch
 
-- LinkedIn: [https://www.linkedin.com/in/cristian-ro%C8%99ca-b90114201/]
+- LinkedIn: https://www.linkedin.com/in/cristian-rosca-rbc/
 - Email: [cristianrosca.rbc@gmail.com]
-
-Feel free to reach out if you'd like to collaborate on a project! I'm always open to new opportunities to build something awesome.
